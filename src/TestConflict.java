@@ -1,7 +1,7 @@
 public class TestConflict {
 
     public void testA (){
-        System.out.println("Implementation by Devel.1");
+        System.out.println("Implementation by Devel_B+A");
     }
 
     public void testB(){
